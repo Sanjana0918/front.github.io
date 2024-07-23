@@ -1,0 +1,22 @@
+.aboutUs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+    width: 792px;
+        height: 777px;
+        padding: 55px;
+        background-color: #eb4dcc48;
+}
+.para  {
+        padding: 14px;
+            font-size: 19px;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.main-heading  {
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
